@@ -130,7 +130,7 @@ header p span {
 .about_desc {
     padding: 0 15px 15px;
 }
-.about .about_desc h3 {
+.about .about_desc_title {
     padding: 15px 0 18px;
     font-weight: 600;
     font-size: 20px;
